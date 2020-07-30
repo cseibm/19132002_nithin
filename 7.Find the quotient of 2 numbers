@@ -1,0 +1,5 @@
+x= input()
+y= input()
+a= int(x)%int(y)
+b= int(x)/int(y)
+print (a,b)
