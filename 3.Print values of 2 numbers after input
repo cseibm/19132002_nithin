@@ -1,0 +1,4 @@
+print(" Enter two values ")
+  x= input()
+  y= input()
+  print(x,y)
